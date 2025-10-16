@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🌿 Hello, I’m Harim.
+
+I majored in Apparel and Fashion.
+Now, I’m exploring the intersection of data and AI, discovering new ways to blend technology with aesthetics.
+
+I’m inspired by clothes, music, and swimming, and I believe in living each day with passion, gratitude, and love — doing my best and embracing life fully.
 
 <!--
 **HalimBaek/HalimBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
